@@ -1,4 +1,4 @@
-# Schwab 1099-B Converter
+# Schwab 1099-B Converter [rsulove.com or schwab1099b.com]
 
 The purpose of these two scripts is to automate entering stock sales from the
 Schwab EAC 1099-B form into TurboTax Online.
